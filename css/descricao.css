@@ -1,15 +1,65 @@
 .h1descricao{color: #0277BD; text-align: center;}
 
-.h2descricao{color: white ; margin-left: 10% ; }
+.h2descricao{color: #D8D8D8 ; margin-left: 37% ;
+font-size: 52px; font-family: Arial;margin-top: 50px }
 
-.pdescricao{margin-top: 20px; color: white ; 
-	 margin-right: 800px; border:solid; margin-left: 30px; margin-bottom: 25px; }
+.pdescricao{margin-top: 80px; color: white ; 
+	 margin-right: 800px; border:solid;
+	 margin-left: 30px; margin-bottom: 25px;
+	 font-family: Arial }
 
 .p{
-	margin-left:30px ; margin-right: 30px; margin-top: 7px; color: white; margin-bottom: 25px;
+	margin-left:30px ; margin-right: 30px;
+	margin-top: 7px; color: white; margin-bottom: 25px;
+	font-family: Arial
 }
 
+.sub{
+	color: white;
+	margin-left: 35%;
+	font-size: 1.4em;
+    font-style: italic;
+}
 
-
+.botao{
+	color: white;
+	background-color: blue;
+	margin-left: 47%;
+	margin-top: 2%;
+}
 
 .sobre{color:#00BFFF ; margin-left:30px; font-size: 30px; margin-top:20px; }
+
+
+.lateral1{
+	margin-right:20%;
+	margin: 0% 25% 50% 0%;
+}
+
+.bacharel{
+	text-align: right;
+	color: blue;
+
+}
+
+.periodo{
+	text-align: right;
+	color: white;
+
+}
+
+.ampulheta{
+	margin-left: 80%;
+}
+
+.noturno{
+	text-align: right;
+	color: blue;
+
+}
+
+.noturno2{
+	text-align: right;
+	color: white;
+}
+
