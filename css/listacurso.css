@@ -1,13 +1,44 @@
-.h1lista{color: #03A9F4; text-align: center;}
+.h2lista{color: #D8D8D8 ;
+font-size:30px; font-family: Arial; margin-top:2%; text-align: center;}
 
-.h2lista{ text-align: center; color: white;}
-.texto{text-align: center; color:white;}
-.adm{color:blue; border:solid;.margin-top: 100px;
-	 margin-right: 1000px; margin-left: 30px; margin-bottom: 10px; }
+.h2lista:hover{color: #4fc3f7; cursor: pointer;}
 
-.ADM2{text-align: center; margin-top: 80PX; margin-bottom: 10PX; color: white;}
+.texto{text-align: center; color:white; font-size: 20px; font-family: Arial;}
+.h3lista{ text-align: center; color:white; width: 100% font-weight: 100;}
 
-.ADM3{text-align: center; margin-bottom: 80PX ;color: white;}
+.adm{color:blue; border:solid; width:20%; height: 100px; float: left; margin-left: 14%; }
 
-.ADS{color:blue; border:solid;
-	 margin-right: 100px; margin-left: 1000px; margin-bottom: 10px;  margin-top:10px; }
+.adm:hover{
+	background-color: blue; border: 1px white solid;
+
+}
+
+.ADM2{text-align: center; padding-top:10%; 	 color: white; }
+
+.ADM3{text-align: center; padding-bottom:10% ;color: white;}
+
+.ADS{color:blue; border: solid; width:20%; height: 100px;}
+
+
+.teste{height: 120px; width: 100%; float: left;}
+
+
+.ADS{color:blue; border:solid; width:20%; height: 100px; float: left; margin-left: 5%;}
+
+.ADS:hover{
+	background-color: blue; border: 1px white solid;}
+
+
+.ADSE{color:blue; border:solid; width:20%; height: 100px; float: left; margin-left: 5%;}
+ 
+.ADSE:hover{
+	background-color: blue; border: 1px white solid;}
+
+
+
+
+
+
+
+
+
