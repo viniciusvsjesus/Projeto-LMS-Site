@@ -1,2 +1,7 @@
 .h1home{color: white; text-align: center;}
-.login{ width: 10%; height: 38px; background-color: black;  border-radius: 20px; text-align: center; font-size: 1.4em; padding-top: 8px;}
+.login{ width: 10%; height: 40px; background-color: black; border-radius: 20px; text-align: center; font-size: 1.4em; padding-top: 10px; float:right;}
+.cem-porcento{width: 100%;}
+.cem-porcento img{margin: 15px auto 30px 25%; width: 50%;}
+.cem-porcento div{width:25%; background-color: #116fff; height: 45px; margin: 0 auto 10px auto; color: white; border-radius: 10px; padding-top: 10px;}
+.cem-porcento div:hover{text-decoration: underline;}
+.cem-porcento a{font-size: 1.7em; text-shadow: 2px 1px rgba(0,0,0,.2); text-align: center; }
