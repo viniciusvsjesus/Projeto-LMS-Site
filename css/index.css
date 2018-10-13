@@ -1,7 +1,27 @@
 .h1home{color: white; text-align: center;}
 .login{ width: 10%; height: 40px; background-color: black; border-radius: 20px; text-align: center; font-size: 1.4em; padding-top: 10px; float:right;}
+a{text-decoration: none;}
+
+/* ######################## VESTIBULAR ########################*/
 .cem-porcento{width: 100%;}
 .cem-porcento img{margin: 15px auto 30px 25%; width: 50%;}
 .cem-porcento div{width:25%; background-color: #116fff; height: 45px; margin: 0 auto 10px auto; color: white; border-radius: 10px; padding-top: 10px;}
 .cem-porcento div:hover{text-decoration: underline;}
 .cem-porcento a{font-size: 1.7em; text-shadow: 2px 1px rgba(0,0,0,.2); text-align: center; }
+
+/* ######################## CURSOS ########################*/
+.main_title { text-transform: uppercase; line-height: 25px; color: #116fff; font-weight: 700; margin: 70px auto 20px auto;}
+.text-center {text-align: center;}
+h2 {font-size: 2.5em; margin-bottom: 15px; font-family: Montserrat,sans-serif;}
+
+/* ######################## IMAGEM CURSOS ########################*/
+.div-Graduacao{width: 25%; margin: 0 auto;}
+.imagem-curso{position: relative; height: 350px; background-repeat: no-repeat; width: 100%; background-position: bottom; background-size: cover; overflow: hidden; opacity: 50;}
+
+/* ######################## GRADUAÇÃO ########################*/
+.h3Graduacao{color: white; position: absolute; margin: -170px 0 0 6%; text-align: center; font-size: 2em;}
+.h4Graduacao{color: white; position: absolute; margin: -140px 0 0 3%; text-align: center; font-size: 1.1em;}
+
+/* ######################## TRANFORMAÇÃO ########################*/
+.h1transformacao{text-align: center; color: white; margin: 50px auto 50px auto;}
+.video-transformacao{width: 50%; height: 500px; margin: 0 0 0 25%;}
