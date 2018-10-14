@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-.h1noticias{color: #B3E5FC; text-align: center;}
+
+.h1noticias{color: #B3E5FC; text-align: center; margin-top: 50%;}
 .login{ width: 10%; height: 40px; background-color: black; border-radius: 20px; text-align: center; font-size: 1.4em; padding-top: 10px; float:right;}
-=======
+
 .h1noticias{color: #D8D8D8 ; position: absolute;
 font-size:50px; font-family: Arial; margin-top:25%; text-align: center;  margin-left: 23%;}
 .h1noticias:hover{color: #4fc3f7; cursor: pointer;}
@@ -17,4 +17,3 @@ font-size:50px; font-family: Arial; margin-top:25%; text-align: center;  margin-
 .img {text-align: center; margin-left: 30%; }
 
 .texto{margin-left:2%; font-size: 20px; color:white;}
->>>>>>> b5419d3ed9f69407a333e8033e37da261d75aa89
