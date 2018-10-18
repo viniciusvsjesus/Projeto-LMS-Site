@@ -2,21 +2,21 @@
 .h1noticias{color: #B3E5FC; text-align: center; margin-top: 20%;}
 .login{ width: 10%; height: 40px; background-color: black; border-radius: 20px; text-align: center; font-size: 1.4em; padding-top: 10px; float:right;}
 
-.h1noticias{color: #D8D8D8 ; position: absolute;
-font-size:50px; font-family: Arial; margin-top:25%; text-align: center;  margin-left: 23%;}
-.h1noticias:hover{color: #4fc3f7; cursor: pointer;}
+.h2{text-transform: uppercase; line-height: 10px; color: #116fff;  
+	font-weight: 700; margin: 3% auto 20px; text-align: center; font-size: 1.7em}
 
-.FOTO{margin-left: 5%; margin-top: 3%; width:90%}
+.divTexto{color: white; text-align:center; width:65%; font-size: 1em; margin-left: 16%;}
 
-.facul{text-align:center; color:white; font-size: 15px; font-family: Arial; margin-left:5%; margin-right:5% }
+.divBox{width: 100%;}
+.divBox img{width: 10%; -webkit-box-sizing: border-box; margin: 0 0 0 11%;}
+.divBox img:first-child{margin: 0 0 0 22%; }
 
-.ena{border:double; color: #696969; width:30%; height:100% }
+.video{width: 50%; height: 500px; margin: 0 0 0 25%;}
 
-.ga{text-align: center; color: blue; margin-left:10 ; font-size:30px;}
+.h3{text-transform: uppercase; line-height: 10px; color: #116fff;  
+	font-weight: 700; margin: 3% auto 20px; text-align: center; font-size: 1.9em}
 
-.img {text-align: center; margin-left: 30%; }
+.saiba div{width:25%; background-color: #116fff; height: 45px; margin: 10% auto 10px auto; color: white; border-radius: 10px; padding-top: 10px;}
+.saiba div:hover{text-decoration: underline;}
+.saiba a{font-size: 1.2em; text-shadow: 2px 1px rgba(0,0,0,.2); text-align: center; }	
 
-.texto{margin-left:2%; font-size: 20px; color:white;}
-
-
-.mec{border:double; color: #696969; margin-left:40%; width:30%; height:100%; }
