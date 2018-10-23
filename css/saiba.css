@@ -1,0 +1,35 @@
+.banner-main {
+background-size: cover!important;
+background-repeat : no-repeat!important;
+min-height: 570px;
+display:flex ;
+flex-direction:column;
+justify-content:center;}
+
+
+.banner-title{
+	text-align:center;
+	letter-spacing:1px;
+	font-size:3.1em;
+	color: #a5a0a0;
+	font-weight:700px;
+	line-height:75px;
+	
+	font-family:Montserrat,sans-serif;
+}
+
+.p{
+	margin-left: 47%;
+}
+
+.h3{
+	font-weight:200;
+	margin-bottom :15px;
+	font-family:Montserrat,sans-serif;
+	color:#fff;
+    margin-block-end: 1em;
+	margin-block-start: 1em;
+	margin-inline-start: 0px;
+
+
+}
