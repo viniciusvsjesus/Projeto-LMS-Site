@@ -27,9 +27,14 @@ justify-content:center;}
 	margin-bottom :15px;
 	font-family:Montserrat,sans-serif;
 	color:#fff;
-    margin-block-end: 1em;
-	margin-block-start: 1em;
-	margin-inline-start: 0px;
-
-
+    font-size:1.2em; 
+}
+.texto{
+	font-size:  1.2em;
+	margin-bottom :15px;
+	font-family:Montserrat,sans-serif;
+	color:#fff;
+	margin-left: 15%;
+	margin-right: 15%;
+	line-height: 1.8;
 }
