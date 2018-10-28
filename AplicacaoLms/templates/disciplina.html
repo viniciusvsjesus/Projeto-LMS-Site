@@ -9,7 +9,8 @@
     <link rel="stylesheet" type="text/css" media="screen" href="../static/estilogeral.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="../static/disciplina.css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-    <script src="main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="../static/js/disciplina.js" ></script>
 </head>
 <body>
     <header>
@@ -22,7 +23,69 @@
         <a href="noticias"> <div> <p> Notícias </p> </div> </a>
         <a href="login"><div class="login"> Login </div></a>
     </header>
-    <h1 class="h1Disciplina"> DISCPLINA DOS CURSOS </h1>
+    <h1 class="h1Disciplina"> DISCIPLINA DOS CURSOS </h1>
+
+    <div class="DivGeralDisciplina">
+      <div class="DivDisciplinas" id="Sistemas"> 
+        <img src="../static/img/Sistenas.png" alt="">
+        <h3> Sistemas de Informação</h3>
+        <button id="btnSistemas" class="btn btnMargin"> Cloque Para Mostrar! </button>
+      </div>
+
+      <div class="DivDisciplinas" id="Analise">
+        <img src="../static/img/Análise-e-Desenvolvimento.png" alt="">
+        <h3> Análise e Desenvolvimento de Sistemas </h3>
+        <button id="btnAds" class="btn btnAdsMargin"> Cloque Para Mostrar! </button>
+      </div>
+
+      <div class="DivDisciplinas" id="Redes">
+        <img src="../static/img/Redes.png" alt="">
+        <h3> Redes de Computadores </h3>
+        <button id="btnRedes" class="btn btnMargin"> Cloque Para Mostrar! </button>
+      </div>
+
+      <div class="DivDisciplinas" id="Administracao">
+        <img src="../static/img/Administracao.png" alt="">
+        <h3> Administração</h3>
+        <button id="btnAdm" class="btn btnMargin"> Cloque Para Mostrar! </button>
+      </div>
+    </div>
+    <div class="DivDosBotoes">
+
+  
+
+
+    </div>  
+    <h1 class="MatrizCurricular"> MATRIZ CURRICULAR </h1>
+    <h2 class="h2SelecioneCurso" id="CursoText"> SELECIONE UM CURSO PARA VER AS DISCIPLINAS </h2>
+
+    <div class="DivMatrizCurricularGeral">
+      <ul>
+        <li> 1º Semestre </li>
+        <li> 2º Semestr </li>
+        <li> 3º Semestr</li>
+        <li> 4º Semestr </li>
+        <li> 5º Semestr </li>
+        <li> 6º Semestr </li>
+        <li> 7º Semestr </li>
+        <li> 8º Semestr</li>
+      </ul>
+      <div class="DivPDisciplinas">
+        <p id="disciplina1">  </p>
+        <p id="disciplina2"> </p>
+        <p id="disciplina3"> </p>
+        <p id="disciplina4"> </p>
+        <p id="disciplina5"> </p>
+        <p id="disciplina6"> </p>
+        <p id="disciplina7"> </p>
+        <p id="disciplina8"> </p>
+        <p id="disciplina9"> </p>
+        <p id="disciplina10"> </p>
+        
+      </div>
+    </div>
+
+    <!-- ########################## FOOTER ########################## -->
     <footer>
       <section>
         <img src="../static/img/faculdadeimpacta.png" alt="" class="imgFooter">
