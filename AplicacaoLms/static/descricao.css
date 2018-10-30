@@ -37,7 +37,7 @@ font-size: 52px; font-family: Arial;margin-top: 50px }
 .botao2{
 	color: white;
 	background-color: blue;
-	margin-left: 47%;
+	margin-left: 0%;
 	margin-top: 10%;
 	position: absolute;
 	border-radius: 50px;
@@ -50,11 +50,11 @@ font-size: 52px; font-family: Arial;margin-top: 50px }
     cursor: pointer;
 	background: #116fff;
 	display: inline-block;
-	text-align:left;
+	text-align:center;
 	line-height: 1;
     text-shadow: 2px 1px rgba(0,0,0,.2);
-	 margin-top: 0px;
-	margin-left: 38%;
+	 margin-top: 3%;
+	margin-left: 0%;
 }
 
 /*###################### SOBRE O CURSO #############################*/
@@ -62,20 +62,19 @@ font-size: 52px; font-family: Arial;margin-top: 50px }
 .divSobreCurso{width: 42%;border: blue solid 5px; float: left; margin-left: 8%}
 .tituloSobreCurso{color:#116fff; font-size: 40px;font-size: 1.8em; padding: 20px 20px 0 20px;}
 .pDescricaoCurso{color: white;font-family: 'Montserrat',sans-serif;padding: 15px 20px 20px 20px  ;}
-.h4Bacharelado{color: #116fff; font-size: 20px;font-family: 'Montserrat',sans-serif}
+.h4Bacharelado{color: #116fff; font-size: 20px;font-family: 'Montserrat',sans-serif;font-weight: 200;}
 .periodotexto{color: white;font-size: 15px}
-.jsagudsayudgasu{float: left;width: 20%;}
+.jsagudsayudgasu{float: left;width: 75%;margin-top: 6%; margin-left: 5%}
 .noturnotexto{color: white;}
-.imgPeriodo{float: left; margin-top: 8px;}
 .divPeriodoPrincipal{width: 18%; float: left; margin-left: 10%; margin-top: 3%}
 .socialIcons{font-size: 2em; color: rgba(255,255,255,0.7); float: left; margin-top: 5px; margin-right: 5px;}
-.duracao{color: white;font-size: 15px;font-family: 'Montserrat',sans-serif;margin-top: 50%}
+.duracao{color: white;font-size: 15px;font-family: 'Montserrat',sans-serif;margin-top: 28%}
 .semestre{color:#116fff;font-size: 14px;font-family: 'Montserrat',sans-serif;margin-top: 5%}
-.pInvestir{color: white;font-family:'Montserrat',sans-serif; font-size: 0.9em; margin-top: 14%; text-align: center;}
-
+.pInvestir{width:147%;color: white;font-family:'Montserrat',sans-serif; font-size: 1.1em; margin-top: 14%; text-align: center;font-weight: 200;}
+.divduracao{margin-left: 5%}
 /*###################### caixinha embaixo #############################*/
-.divcaixinha{width: 25%; float: left;margin-left: 10%; margin-top: 4%; background: #0d181d; }
+.divcaixinha{width: 25%; float: left;margin-left: 10%; margin-top: 2%; background: #0d181d; }
 .noturno2{color: white; margin-left: 16px;padding: 10px 20px 0 4px;}
 .preco-adm{color:white;font-size: 15px ; margin-left: 16px;padding:10px 20px 0px 4px ;text-decoration: line-through;}
 .preco-adm2{color:#116fff;font-size: 18px; margin-left: 16px;padding: 10px 20px 0px 4px;}
-.tesxtinho1{color: white;font-size: 11px; margin-left: 10px; padding: 10px 20px 6px 4px;}
+.tesxtinho1{color: white;font-size: 11px; margin-left: 10px; padding: 10px 20px 6px 4px;text-align: justify;}
