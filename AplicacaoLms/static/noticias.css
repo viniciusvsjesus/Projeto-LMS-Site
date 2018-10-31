@@ -20,3 +20,27 @@
 .saiba div:hover{text-decoration: underline;}
 .saiba a{font-size: 1.2em; text-shadow: 2px 1px rgba(0,0,0,.2); text-align: center; }	
 
+.banner-main {
+    
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
+    min-height: 570px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.banner-title{
+	text-align:center;
+	letter-spacing:1px;
+	font-size:3.1em;
+	color: #a5a0a0;
+	font-weight:700px;
+	line-height:75px;
+	
+	font-family:Montserrat,sans-serif;
+}
+
+.p{
+	margin-left: 47%;
+}
