@@ -25,5 +25,6 @@ urlpatterns = [
     path('saiba_mais',saiba_mais),
     path('descricao_cursos',descricao_cursos),
     path('noticias',noticias),
+    path('portal',portal),
     path('admin/', admin.site.urls),
 ]

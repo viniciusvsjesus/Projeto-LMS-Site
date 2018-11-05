@@ -23,3 +23,6 @@ def descricao_cursos(request):
 
 def noticias(request):    
     return render(request, "noticias.html")
+
+def portal(request):    
+    return render(request, "portal.html")    
