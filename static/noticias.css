@@ -1,0 +1,71 @@
+
+.h1noticias{color: #B3E5FC; text-align: center; margin-top: 20%;}
+.login{ width: 10%; height: 40px; background-color: black; border-radius: 20px; text-align: center; font-size: 1.4em; padding-top: 10px; float:right;}
+
+.h2{text-transform: uppercase; line-height: 10px; color: #116fff;  
+	font-weight: 700; margin: 3% auto 20px; text-align: center; font-size: 1.7em}
+
+.divTexto{color: white; text-align:center; width:65%; font-size:  1.2em; margin-left: 16%; line-height:130%;}
+
+.divBox{width: 100%;}
+.divBox img{width: 10%; -webkit-box-sizing: border-box; margin: 0 0 0 11%;}
+.divBox img:first-child{margin: 0 0 0 22%; }
+
+.video{width: 50%; height: 500px; margin: 0 0 0 25%;}
+
+.h3{text-transform: uppercase; line-height: 10px; color: #116fff;  
+	font-weight: 700; margin: 3% auto 20px; text-align: center; font-size: 1.9em}
+
+.saiba div{width:25%; background-color: #116fff; height: 45px; margin: 10% auto 10px auto; color: white; border-radius: 10px; padding-top: 10px;}
+.saiba div:hover{text-decoration: underline;}
+.saiba a{font-size: 1.2em; text-shadow: 2px 1px rgba(0,0,0,.2); text-align: center; }	
+
+.banner-main {
+    
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
+    min-height: 570px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.banner-title{
+	text-align:center;
+	letter-spacing:1px;
+	font-size:3.1em;
+	color: #a5a0a0;
+	font-weight:700px;
+	line-height:75px;
+	
+	font-family:Montserrat,sans-serif;
+}
+
+.p{
+	margin-left: 47%;
+}
+
+
+h5 {
+    border-width: medium;
+    border-style: double;
+	border-color: rgba(29,59,66,.88);;
+	color: white;
+	background-color:rgba(29,59,66,.88);;
+	margin-left: 30%;
+	margin-right: 30%;
+	transform: skew(-24deg);
+	letter-spacing: 3px;
+	text-transform: uppercase;
+    margin-top: 1%;
+	margin-bottom:5% ;
+	text-align: center;
+	font-size:150%;
+  }
+  
+ h5:hover{background-color: blue; border: 1px white solid;} 
+
+
+ .faculdade{
+	 color: white; text-align:center; width:65%; font-size: 1.3em; margin-left: 16%;
+ }
